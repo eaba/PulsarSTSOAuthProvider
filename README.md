@@ -1,1 +1,1 @@
-# PulsarSTSOAuthProvider
+# PulsarStsProvider
